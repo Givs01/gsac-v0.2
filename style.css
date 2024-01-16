@@ -72,8 +72,8 @@ nav h1 {
 }
 
 #sidebar a:hover{
-    background-color:#00a3ba;
-    color: whitesmoke;
+    background-color:#ffffff;
+    color: #00a3ba;
 }
 
 nav a:hover{
@@ -118,7 +118,7 @@ nav li:first-child {
 }
 
 .active-t {
-    background-color:#00a3ba;
+    background-color:#ffffff;
 }
 
 .sidebar li {
